@@ -1,0 +1,1 @@
+This repository contains all research paper assignments completed as part of the ENPM691: Hacking of C Programs and Unix Binaries course, taken in Fall 2025. The work focuses on low-level program analysis, memory vulnerabilities, and exploitation techniques in Unix-based systems.
